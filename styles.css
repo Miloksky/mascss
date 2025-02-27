@@ -91,3 +91,20 @@ fieldset label{
     text-decoration: none;
     color: inherit;
 }
+
+.container{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 15px;
+}
+
+div ul li {
+    list-style: none;
+}
+
+div ul li a{
+    text-decoration: none;
+    color: inherit;
+}
